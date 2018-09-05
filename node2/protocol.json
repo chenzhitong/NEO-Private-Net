@@ -1,0 +1,25 @@
+﻿{
+  "ProtocolConfiguration": {
+    "Magic": 123456,
+    "AddressVersion": 23,
+    "SecondsPerBlock": 15,
+    "StandbyValidators": [
+      "037ebe29fff57d8c177870e9d9eecb046b27fc290ccbac88a0e3da8bac5daa630d",
+      "03b34a4be80db4a38f62bb41d63f9b1cb664e5e0416c1ac39db605a8e30ef270cc",
+      "03cc384ca982168bf6f08922d27c8acc4357d52a7e8ad8281d4af6683e6f63e94d",
+      "03da4ed85a991134bf45592a5b04d6d71399f23a85843f43e6ac1a5d30f5473711"
+    ],
+    "SeedList": [
+      "localhost:10001",
+      "localhost:20001",
+      "localhost:30001",
+      "localhost:40001"
+    ],
+    "SystemFee": {
+      "EnrollmentTransaction": 10,
+      "IssueTransaction": 5,
+      "PublishTransaction": 5,
+      "RegisterTransaction": 100
+    }
+  }
+}

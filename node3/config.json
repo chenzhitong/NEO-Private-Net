@@ -1,0 +1,23 @@
+﻿{
+  "ApplicationConfiguration": {
+    "Paths": {
+      "Chain": "Chain_{0}",
+      "ApplicationLogs": "ApplicationLogs_{0}"
+    },
+    "P2P": {
+      "Port": 30001,
+      "WsPort": 30002
+    },
+    "RPC": {
+      "Port": 30003,
+      "SslCert": "",
+      "SslCertPassword": ""
+    },
+    "UnlockWallet": {
+      "Path": "3.json",
+      "Password": "11111111",
+      "StartConsensus": true,
+      "IsActive": true
+    }
+  }
+}
