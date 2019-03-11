@@ -3,6 +3,7 @@
     "Magic": 123456,
     "AddressVersion": 23,
     "SecondsPerBlock": 15,
+    "LowPriorityThreshold": 0.001,
     "StandbyValidators": [
       "037ebe29fff57d8c177870e9d9eecb046b27fc290ccbac88a0e3da8bac5daa630d",
       "03b34a4be80db4a38f62bb41d63f9b1cb664e5e0416c1ac39db605a8e30ef270cc",

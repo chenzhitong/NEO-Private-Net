@@ -1,0 +1,17 @@
+System.TypeInitializationException
+The type initializer for 'Neo.Settings' threw an exception.
+   at Neo.Shell.MainService.OnStart(String[] args)
+   at Neo.Services.ConsoleServiceBase.Run(String[] args)
+   at Neo.Program.Main(String[] args)
+
+System.FormatException
+An invalid IP address was specified.
+   at System.Net.IPAddressParser.Parse(ReadOnlySpan`1 ipSpan, Boolean tryParse)
+   at System.Net.IPAddress.Parse(String ipString)
+   at Neo.RPCSettings..ctor(IConfigurationSection section)
+   at Neo.Settings..ctor(IConfigurationSection section)
+   at Neo.Settings..cctor()
+
+System.Net.Sockets.SocketException
+提供了一个无效的参数。
+

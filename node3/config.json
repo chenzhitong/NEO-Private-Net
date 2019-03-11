@@ -2,13 +2,14 @@
   "ApplicationConfiguration": {
     "Paths": {
       "Chain": "Chain_{0}",
-      "ApplicationLogs": "ApplicationLogs_{0}"
+      "Index": "Index_{0}"
     },
     "P2P": {
       "Port": 30001,
       "WsPort": 30002
     },
     "RPC": {
+      "BindAddress": "127.0.0.1",
       "Port": 30003,
       "SslCert": "",
       "SslCertPassword": ""
@@ -18,6 +19,7 @@
       "Password": "11111111",
       "StartConsensus": true,
       "IsActive": true
-    }
+    },
+    "PluginURL": "https://github.com/neo-project/neo-plugins/releases/download/v{1}/{0}.zip"
   }
 }
