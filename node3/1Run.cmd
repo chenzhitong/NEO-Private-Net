@@ -1,1 +1,0 @@
-dotnet neo-cli.dll /rpc
