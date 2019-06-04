@@ -1,9 +1,5 @@
-2019/05/28-16:02:12.485 4740 Recovering log #14
-2019/05/28-16:02:12.485 4740 Level-0 table #16: started
-2019/05/28-16:02:12.497 4740 Level-0 table #16: 339 bytes OK
-2019/05/28-16:02:12.504 4740 Delete type=0 #14
-2019/05/28-16:02:12.504 4740 Delete type=3 #12
-2019/05/28-16:02:12.507 aec Compacting 4@0 + 0@1 files
-2019/05/28-16:02:12.517 aec Generated table #18@0: 7 keys, 557 bytes
-2019/05/28-16:02:12.517 aec Compacted 4@0 + 0@1 files => 557 bytes
-2019/05/28-16:02:12.518 aec compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/06/04-14:08:00.921 2324 Recovering log #21
+2019/06/04-14:08:00.921 2324 Level-0 table #23: started
+2019/06/04-14:08:00.932 2324 Level-0 table #23: 223 bytes OK
+2019/06/04-14:08:00.945 2324 Delete type=0 #21
+2019/06/04-14:08:00.946 2324 Delete type=3 #19

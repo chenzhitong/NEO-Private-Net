@@ -1,5 +1,5 @@
-2019/05/28-16:00:49.210 45e0 Recovering log #5
-2019/05/28-16:00:49.210 45e0 Level-0 table #7: started
-2019/05/28-16:00:49.210 45e0 Level-0 table #7: 0 bytes OK
-2019/05/28-16:00:49.216 45e0 Delete type=0 #5
-2019/05/28-16:00:49.216 45e0 Delete type=3 #4
+2019/06/04-14:07:27.359 211c Recovering log #11
+2019/06/04-14:07:27.359 211c Level-0 table #13: started
+2019/06/04-14:07:27.359 211c Level-0 table #13: 0 bytes OK
+2019/06/04-14:07:27.363 211c Delete type=0 #11
+2019/06/04-14:07:27.363 211c Delete type=3 #9
