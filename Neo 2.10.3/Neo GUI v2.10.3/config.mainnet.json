@@ -1,0 +1,18 @@
+﻿{
+  "ApplicationConfiguration": {
+    "Paths": {
+      "Chain": "Chain_{0}",
+      "Index": "Index_{0}",
+      "CertCache": "Certs"
+    },
+    "P2P": {
+      "Port": 10333,
+      "WsPort": 10334
+    },
+    "Urls": {
+      "AddressUrl": "https://neoscan.io/address/{0}",
+      "AssetUrl": "https://neoscan.io/api/main_net/v1/get_asset/{0}",
+      "TransactionUrl": "https://neoscan.io/transaction/{0}"
+    }
+  }
+}
