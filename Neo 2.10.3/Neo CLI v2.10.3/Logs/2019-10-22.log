@@ -288,3 +288,11 @@
 [18:05:23.436] relay block: height=47 hash=0x36526ff47ec385bb99f698127a81a412095430d299e3abc8b138c40158052166 tx=1
 [18:05:23.442] persist block: height=47 hash=0x36526ff47ec385bb99f698127a81a412095430d299e3abc8b138c40158052166 tx=1
 [18:05:23.448] initialize: height=48 view=0 index=0 role=Primary
+[18:23:37.929] OnStart
+[18:23:37.979] initialize: height=47 view=0 index=0 role=Primary
+[18:23:38.036] timeout: height=47 view=0
+[18:23:38.047] send prepare request: height=47 view=0
+[18:23:38.085] send commit
+[18:23:38.111] relay block: height=47 hash=0x515d9f0154b77514d58f3f3ed7e4f202fcd92f6d3d1455036a49ecdeddf3b65a tx=1
+[18:23:38.258] persist block: height=47 hash=0x515d9f0154b77514d58f3f3ed7e4f202fcd92f6d3d1455036a49ecdeddf3b65a tx=1
+[18:23:38.264] initialize: height=48 view=0 index=0 role=Primary
