@@ -1,0 +1,56 @@
+[23:38:42.218] OnStart
+[23:38:42.344] initialize: height=48 view=0 index=0 role=Primary
+[23:38:42.451] timeout: height=48 view=0
+[23:38:42.460] send prepare request: height=48 view=0
+[23:38:42.499] send commit
+[23:38:42.522] relay block: height=48 hash=0x9bb2f6b52f2af65740366d89d09ccd9fb399d836f6f8c760478538d284bf6413 tx=1
+[23:38:44.529] persist block: height=48 hash=0x9bb2f6b52f2af65740366d89d09ccd9fb399d836f6f8c760478538d284bf6413 tx=1
+[23:38:44.540] initialize: height=49 view=0 index=0 role=Primary
+[23:38:49.549] timeout: height=49 view=0
+[23:38:49.565] send prepare request: height=49 view=0
+[23:38:49.585] send commit
+[23:38:49.601] relay block: height=49 hash=0x9d6e73d9bbcf46408c52ecc4abd514ec284c8f14bbc7759a461ccddf0397f4be tx=1
+[23:38:49.624] persist block: height=49 hash=0x9d6e73d9bbcf46408c52ecc4abd514ec284c8f14bbc7759a461ccddf0397f4be tx=1
+[23:38:49.645] initialize: height=50 view=0 index=0 role=Primary
+[23:38:54.649] timeout: height=50 view=0
+[23:38:54.669] send prepare request: height=50 view=0
+[23:38:54.702] send commit
+[23:38:54.718] relay block: height=50 hash=0xb56a3a9d5cbe0fe08ad5545cc6db695d5a6d26dbd90de3ed6c84c2347616c2c5 tx=1
+[23:38:54.738] persist block: height=50 hash=0xb56a3a9d5cbe0fe08ad5545cc6db695d5a6d26dbd90de3ed6c84c2347616c2c5 tx=1
+[23:38:54.754] initialize: height=51 view=0 index=0 role=Primary
+[23:38:59.759] timeout: height=51 view=0
+[23:38:59.780] send prepare request: height=51 view=0
+[23:38:59.809] send commit
+[23:38:59.832] relay block: height=51 hash=0x73aa381ea865bba31ddfde9a01994a95cf8c25f0a03fe17b19a59ba922b33f8f tx=1
+[23:38:59.853] persist block: height=51 hash=0x73aa381ea865bba31ddfde9a01994a95cf8c25f0a03fe17b19a59ba922b33f8f tx=1
+[23:38:59.872] initialize: height=52 view=0 index=0 role=Primary
+[23:39:04.879] timeout: height=52 view=0
+[23:39:04.901] send prepare request: height=52 view=0
+[23:39:04.948] send commit
+[23:39:04.968] relay block: height=52 hash=0x70fae594820cffd8ed0e713e7fca6bae3d3a08517e89d9c6deee3a8a09a07b54 tx=1
+[23:39:04.992] persist block: height=52 hash=0x70fae594820cffd8ed0e713e7fca6bae3d3a08517e89d9c6deee3a8a09a07b54 tx=1
+[23:39:05.012] initialize: height=53 view=0 index=0 role=Primary
+[23:39:10.019] timeout: height=53 view=0
+[23:39:10.042] send prepare request: height=53 view=0
+[23:39:10.080] send commit
+[23:39:10.101] relay block: height=53 hash=0x948099b51baa64bf0c6c12b946985f93ca6fa0ef45323d58b4863b6aa15f353b tx=1
+[23:39:10.122] persist block: height=53 hash=0x948099b51baa64bf0c6c12b946985f93ca6fa0ef45323d58b4863b6aa15f353b tx=1
+[23:39:10.138] initialize: height=54 view=0 index=0 role=Primary
+[23:39:15.140] timeout: height=54 view=0
+[23:39:15.170] send prepare request: height=54 view=0
+[23:39:15.204] send commit
+[23:39:15.224] relay block: height=54 hash=0x1bd7f0054443ecd6a8cf5495d9135658670d2d0d01a45d5814d984b1ca1479a4 tx=1
+[23:39:15.250] persist block: height=54 hash=0x1bd7f0054443ecd6a8cf5495d9135658670d2d0d01a45d5814d984b1ca1479a4 tx=1
+[23:39:15.270] initialize: height=55 view=0 index=0 role=Primary
+[23:39:20.279] timeout: height=55 view=0
+[23:39:20.318] send prepare request: height=55 view=0
+[23:39:20.355] send commit
+[23:39:20.376] relay block: height=55 hash=0xee56b14aa8877de0633619992cfcda06d8e3ae7657bfae918110a36d989aa867 tx=1
+[23:39:20.397] persist block: height=55 hash=0xee56b14aa8877de0633619992cfcda06d8e3ae7657bfae918110a36d989aa867 tx=1
+[23:39:20.414] initialize: height=56 view=0 index=0 role=Primary
+[23:39:25.419] timeout: height=56 view=0
+[23:39:25.450] send prepare request: height=56 view=0
+[23:39:25.485] send commit
+[23:39:25.504] relay block: height=56 hash=0x5b16787e0ab3d5db35f513ae7f9f6b8ac8f1f06efd0f4104c41836df4b7ec4b8 tx=1
+[23:39:25.533] persist block: height=56 hash=0x5b16787e0ab3d5db35f513ae7f9f6b8ac8f1f06efd0f4104c41836df4b7ec4b8 tx=1
+[23:39:25.552] initialize: height=57 view=0 index=0 role=Primary

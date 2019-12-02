@@ -2,9 +2,9 @@
   "ProtocolConfiguration": {
     "Magic": 1840413,
     "AddressVersion": 23,
-    "MillisecondsPerBlock": 5000,
+    "MillisecondsPerBlock": 15000,
     "StandbyValidators": [
-      "03802d104dd74cc15328ece9ab54eda520a8389cb75309f827100f4e4b663be3d0"
+      "038ab42906a05ae458cf06837fc7534e2b51448abb50ad67bba88e6c0fa6baa4eb"
     ],
     "SeedList": [
       "127.0.0.1:10003"

@@ -1,0 +1,9 @@
+System.TypeLoadException
+Method 'OnPersist' in type 'Neo.Plugins.LogReader' from assembly 'ApplicationLogs, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null' does not have an implementation.
+   at System.Reflection.RuntimeAssembly.GetExportedTypes()
+   at System.Reflection.Assembly.get_ExportedTypes()
+   at Neo.Plugins.Plugin.LoadPlugins(NeoSystem system)
+   at Neo.NeoSystem..ctor(String storageEngine)
+   at Neo.Shell.MainService.OnStart(String[] args)
+   at Neo.Services.ConsoleServiceBase.Run(String[] args)
+   at Neo.Program.Main(String[] args)
