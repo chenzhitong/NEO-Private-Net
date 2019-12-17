@@ -1,8 +1,0 @@
-Neo.IO.Data.LevelDB.LevelDBException
-IO error: D:\1code\chenzhitong\NEO-Private-Net\Neo 2.10.3\Neo CLI v2.10.3\Chain_001C151C/MANIFEST-000012: Invalid argument
-   at Neo.IO.Data.LevelDB.NativeHelper.CheckError(IntPtr error)
-   at Neo.IO.Data.LevelDB.DB.Open(String name, Options options)
-   at Neo.Persistence.LevelDB.LevelDBStore..ctor(String path)
-   at Neo.Shell.MainService.OnStart(String[] args)
-   at Neo.Services.ConsoleServiceBase.Run(String[] args)
-   at Neo.Program.Main(String[] args)
