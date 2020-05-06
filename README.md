@@ -17,9 +17,9 @@ Neo 2.10.3
 
 ​	-- Neo GUI v2.10.3
 
-Neo 3.0.0 Preview1
+Neo 3.0.0 Preview2
 
-​	-- Neo CLI v3.0.0 Preview1
+​	-- Neo CLI v3.0.0 Preview2
 
 ## Environment
 
@@ -58,9 +58,9 @@ Neo 2.10.3
 
 ​	-- Neo GUI v2.10.3
 
-Neo 3.0.0 Preview1
+Neo 3.0.0 Preview2
 
-​	-- Neo CLI v3.0.0 Preview1
+​	-- Neo CLI v3.0.0 Preview2
 
 ## 运行环境
 
